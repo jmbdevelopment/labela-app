@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2B430659-231B-4F57-B475-25DA170109D0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LabelA</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>15563CB0-EECD-4F10-823D-3C11AF24D7FF</key>
+		<string>ssh://git.labela.nl/ios/labela-app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LabelA/LabelA.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>15563CB0-EECD-4F10-823D-3C11AF24D7FF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.labela.nl/ios/labela-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>15563CB0-EECD-4F10-823D-3C11AF24D7FF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>15563CB0-EECD-4F10-823D-3C11AF24D7FF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>labela-app</string>
+		</dict>
+	</array>
+</dict>
+</plist>

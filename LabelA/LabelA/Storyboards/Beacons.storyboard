@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES" initialViewController="FlU-1L-4Re">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment version="4096" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Beacon View Controller-->
+        <scene sceneID="PT8-y6-fYd">
+            <objects>
+                <viewController storyboardIdentifier="BeaconViewController" id="FlU-1L-4Re" customClass="BeaconViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="rrT-38-sOZ"/>
+                        <viewControllerLayoutGuide type="bottom" id="m7J-ss-WEi"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="UpA-gy-twj">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="beaconbackground" translatesAutoresizingMaskIntoConstraints="NO" id="5l0-OH-1Dl">
+                                <rect key="frame" x="0.0" y="3" width="414" height="893"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="xRD-Sy-8Vg" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="195.6521739130435" y="-62.946428571428569"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="beaconbackground" width="320" height="564.5"/>
+    </resources>
+</document>
